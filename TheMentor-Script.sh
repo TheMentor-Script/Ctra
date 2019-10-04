@@ -114,7 +114,7 @@ echo   "30. Amer";
 echo $b"============================" | lolcat
 echo   "00. Exit";
 echo ""
-echo  "╭─BLANK" |lolcat
+echo  "╭─TheMentor" |lolcat
 read -p "╰─#" pil;
 
 #Deface
